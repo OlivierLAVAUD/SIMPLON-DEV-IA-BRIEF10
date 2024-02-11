@@ -16,7 +16,7 @@ Ce projet vise à analyser les données relatives aux Oscars.
 
 - Python 3
 - Jupyter Notebook
-- Bibliothèques Python : pandas, matplotlib
+- Bibliothèques Python : pandas, matplotlib, scikit-learn
 
 ## Utilisation
 
@@ -24,9 +24,10 @@ Ce projet vise à analyser les données relatives aux Oscars.
 
 2. Installer les dépendances Python requises :
 
-3. Exécuter le notebook Jupyter `clean_data_src.ipynb` pour effectuer prétraiter les données.
+3. Exécuter le notebook Jupyter `clean_data_src.ipynb` pour pré-traiter les données.
 
-4. 
+4. Exécuter le notebook Jupyter `brief10.ipynb`pour visualiser les statistiques
+
 ## Ressources supplémentaires
 
 - [Documentation de Pandas](https://pandas.pydata.org/docs/)
