@@ -1,0 +1,200 @@
+year,age,name,movie,gender
+1927,44,Emil Jannings,"The Last Command, The Way of All Flesh",M
+1927,22,Janet Gaynor,"Seventh Heaven, Street Angel and Sunrise: A Song of Two Humans",F
+1928,41,Warner Baxter,In Old Arizona,M
+1928,37,Mary Pickford,Coquette,F
+1929,62,George Arliss,Disraeli,M
+1929,28,Norma Shearer,The Divorcee,F
+1930,63,Marie Dressler,Min and Bill,F
+1930,53,Lionel Barrymore,A Free Soul,M
+1931,32,Helen Hayes,The Sin of Madelon Claudet,F
+1931,47,Wallace Beery,The Champ,M
+1932,26,Katharine Hepburn,Morning Glory,F
+1932,35,Fredric March,Dr. Jekyll and Mr. Hyde,M
+1933,31,Claudette Colbert,It Happened One Night,F
+1933,34,Charles Laughton,The Private Life of Henry VIII,M
+1934,27,Bette Davis,Dangerous,F
+1934,34,Clark Gable,It Happened One Night,M
+1935,49,Victor McLaglen,The Informer,M
+1935,27,Luise Rainer,The Great Ziegfeld,F
+1936,28,Luise Rainer,The Good Earth,F
+1936,41,Paul Muni,The Story of Louis Pasteur,M
+1937,37,Spencer Tracy,Captains Courageous,M
+1937,30,Bette Davis,Jezebel,F
+1938,38,Spencer Tracy,Boys Town,M
+1938,26,Vivien Leigh,Gone with the Wind,F
+1939,29,Ginger Rogers,Kitty Foyle,F
+1939,34,Robert Donat,"Goodbye, Mr. Chips",M
+1940,32,James Stewart,The Philadelphia Story,M
+1940,24,Joan Fontaine,Suspicion,F
+1941,38,Greer Garson,Mrs. Miniver,F
+1941,40,Gary Cooper,Sergeant York,M
+1942,25,Jennifer Jones,The Song of Bernadette,F
+1942,43,James Cagney,Yankee Doodle Dandy,M
+1943,29,Ingrid Bergman,Gaslight,F
+1943,48,Paul Lukas,Watch on the Rhine,M
+1944,41,Bing Crosby,Going My Way,M
+1944,40,Joan Crawford,Mildred Pierce,F
+1945,30,Olivia de Havilland,To Each His Own,F
+1945,39,Ray Milland,The Lost Weekend ,M
+1946,49,Fredric March,The Best Years of Our Lives,M
+1946,35,Loretta Young,The Farmer's Daughter,F
+1947,57,Ronald Colman,A Double Life,M
+1947,32,Jane Wyman,Johnny Belinda,F
+1948,33,Olivia de Havilland,The Heiress,F
+1948,41,Laurence Olivier,Hamlet,M
+1949,29,Judy Holliday,Born Yesterday,F
+1949,38,Broderick Crawford,All the King's Men,M
+1950,38,Vivien Leigh,A Streetcar Named Desire,F
+1950,39,José Ferrer,Cyrano de Bergerac,M
+1951,54,Shirley Booth,"Come Back, Little Sheba",F
+1951,52,Humphrey Bogart,The African Queen,M
+1952,24,Audrey Hepburn,Roman Holiday,F
+1952,51,Gary Cooper,High Noon,M
+1953,25,Grace Kelly,The Country Girl,F
+1953,35,William Holden,Stalag 17,M
+1954,48,Anna Magnani,The Rose Tattoo,F
+1954,30,Marlon Brando,On the Waterfront,M
+1955,39,Ernest Borgnine,Marty,M
+1955,41,Ingrid Bergman,Anastasia,F
+1956,36,Yul Brynner,The King and I,M
+1956,28,Joanne Woodward,The Three Faces of Eve,F
+1957,43,Alec Guinness,The Bridge on the River Kwai,M
+1957,41,Susan Hayward,I Want to Live!,F
+1958,39,Simone Signoret,Room at the Top,F
+1958,49,David Niven,Separate Tables,M
+1959,36,Charlton Heston,Ben-Hur,M
+1959,29,Elizabeth Taylor,BUtterfield 8,F
+1960,47,Burt Lancaster,Elmer Gantry,M
+1960,27,Sophia Loren,Two Women,F
+1961,31,Anne Bancroft,The Miracle Worker,F
+1961,31,Maximilian Schell,Judgment at Nuremberg,M
+1962,47,Gregory Peck,To Kill a Mockingbird,M
+1962,31,Patricia Neal,Hud,F
+1963,37,Sidney Poitier,Lilies of the Field,M
+1963,29,Julie Andrews,Mary Poppins,F
+1964,57,Rex Harrison,My Fair Lady,M
+1964,25,Julie Christie,Darling,F
+1965,42,Lee Marvin,Cat Ballou,M
+1965,35,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,F
+1966,45,Paul Scofield,A Man for All Seasons,M
+1966,60,Katharine Hepburn,Guess Who's Coming to Dinner,F
+1967,61,Katharine Hepburn,The Lion in Winter,F
+1967,42,Rod Steiger,In the Heat of the Night,M
+1968,26,Barbra Streisand,Funny Girl,F
+1968,45,Cliff Robertson,Charly,M
+1969,35,Maggie Smith,The Prime of Miss Jean Brodie,F
+1969,62,John Wayne,True Grit,M
+1970,43,George C. Scott,Patton,M
+1970,34,Glenda Jackson,Women in Love,F
+1971,42,Gene Hackman,The French Connection,M
+1971,34,Jane Fonda,Klute,F
+1972,48,Marlon Brando,The Godfather,M
+1972,27,Liza Minnelli,Cabaret,F
+1973,37,Glenda Jackson,A Touch of Class,F
+1973,49,Jack Lemmon,Save the Tiger,M
+1974,42,Ellen Burstyn,Alice Doesn't Live Here Anymore,F
+1974,56,Art Carney,Harry and Tonto,M
+1975,41,Louise Fletcher,One Flew Over the Cuckoo's Nest,F
+1975,38,Jack Nicholson,One Flew Over the Cuckoo's Nest,M
+1976,36,Faye Dunaway,Network,F
+1976,60,Peter Finch,Network,M
+1977,30,Richard Dreyfuss,The Goodbye Girl,M
+1977,32,Diane Keaton,Annie Hall,F
+1978,40,Jon Voight,Coming Home,M
+1978,41,Jane Fonda,Coming Home,F
+1979,33,Sally Field,Norma Rae,F
+1979,42,Dustin Hoffman,Kramer vs. Kramer,M
+1980,37,Robert De Niro,Raging Bull,M
+1980,31,Sissy Spacek,Coal Miner's Daughter,F
+1981,76,Henry Fonda,On Golden Pond,M
+1981,74,Katharine Hepburn,On Golden Pond,F
+1982,39,Ben Kingsley,Gandhi,M
+1982,33,Meryl Streep,Sophie's Choice,F
+1983,49,Shirley MacLaine,Terms of Endearment,F
+1983,53,Robert Duvall,Tender Mercies,M
+1984,45,F. Murray Abraham,Amadeus,M
+1984,38,Sally Field,Places in the Heart,F
+1985,36,William Hurt,Kiss of the Spider Woman,M
+1985,61,Geraldine Page,The Trip to Bountiful,F
+1986,62,Paul Newman,The Color of Money,M
+1986,21,Marlee Matlin,Children of a Lesser God,F
+1987,41,Cher,Moonstruck,F
+1987,43,Michael Douglas,Wall Street,M
+1988,51,Dustin Hoffman,Rain Man,M
+1988,26,Jodie Foster,The Accused,F
+1989,80,Jessica Tandy,Driving Miss Daisy,F
+1989,32,Daniel Day-Lewis,My Left Foot,M
+1990,42,Jeremy Irons,Reversal of Fortune,M
+1990,42,Kathy Bates,Misery,F
+1991,54,Anthony Hopkins,The Silence of the Lambs,M
+1991,29,Jodie Foster,The Silence of the Lambs,F
+1992,33,Emma Thompson,Howards End,F
+1992,52,Al Pacino,Scent of a Woman,M
+1993,37,Tom Hanks,Philadelphia,M
+1993,36,Holly Hunter,The Piano,F
+1994,38,Tom Hanks,Forrest Gump,M
+1994,45,Jessica Lange,Blue Sky,F
+1995,32,Nicolas Cage,Leaving Las Vegas,M
+1995,49,Susan Sarandon,Dead Man Walking,F
+1996,45,Geoffrey Rush,Shine,M
+1996,39,Frances McDormand,Fargo,F
+1997,34,Helen Hunt,As Good as It Gets,F
+1997,60,Jack Nicholson,As Good as It Gets,M
+1998,26,Gwyneth Paltrow,Shakespeare in Love,F
+1998,46,Roberto Benigni,Life Is Beautiful,M
+1999,25,Hilary Swank,Boys Don't Cry,F
+1999,40,Kevin Spacey,American Beauty,M
+2000,33,Julia Roberts,Erin Brockovich,F
+2000,36,Russell Crowe,Gladiator,M
+2001,47,Denzel Washington,Training Day,M
+2001,35,Halle Berry,Monster's Ball,F
+2002,29,Adrien Brody,The Pianist,M
+2002,35,Nicole Kidman,The Hours,F
+2003,43,Sean Penn,Mystic River,M
+2003,28,Charlize Theron,Monster,F
+2004,37,Jamie Foxx,Ray,M
+2004,30,Hilary Swank,Million Dollar Baby,F
+2005,29,Reese Witherspoon,Walk the Line,F
+2005,38,Philip Seymour Hoffman,Capote,M
+2006,45,Forest Whitaker,The Last King of Scotland,M
+2006,61,Helen Mirren,The Queen,F
+2007,50,Daniel Day-Lewis,There Will Be Blood,M
+2007,32,Marion Cotillard,La Vie en rose,F
+2008,48,Sean Penn,Milk,M
+2008,33,Kate Winslet,The Reader,F
+2009,60,Jeff Bridges,Crazy Heart,M
+2009,45,Sandra Bullock,The Blind Side,F
+2010,29,Natalie Portman,Black Swan,F
+2010,50,Colin Firth,The King's Speech,M
+2011,39,Jean Dujardin,The Artist,M
+2011,62,Meryl Streep,The Iron Lady,F
+2012,22,Jennifer Lawrence,Silver Linings Playbook,F
+2012,55,Daniel Day-Lewis,Lincoln,M
+2013,44,Matthew McConaughey,Dallas Buyers Club,M
+2013,44,Cate Blanchett,Blue Jasmine,F
+2014,54,Julianne Moore,Still Alice,F
+2014,33,Eddie Redmayne,The Theory of Everything,M
+2015,26,Brie Larson,Room,F
+2015,41,Leonardo DiCaprio,The Revenant,M
+2016,28,Emma Stone,La La Land,F
+2016,28,Emma Stone,La La Land,F
+2016,41,Casey Affleck,Manchester by the Sea,M
+2017,60,Frances McDormand,"Three Billboards Outside Ebbing, Missouri",F
+2017,59,Gary Oldman,Darkest Hour,M
+2017,60,Frances McDormand,"Three Billboards Outside Ebbing, Missouri",F
+2018,44,Olivia Colman,The Favourite,F
+2018,37,Rami Malek,Bohemian Rhapsody,M
+2018,44,Olivia Colman,The Favourite,F
+2019,50,Renée Zellweger,Judy,F
+2019,50,Renée Zellweger,Judy,F
+2019,45,Joaquin Phoenix,Joker,M
+2020,63,Frances McDormand,Nomadland,F
+2020,63,Frances McDormand,Nomadland,F
+2020,83,Anthony Hopkins,The Father,M
+2021,44,Jessica Chastain,The Eyes of Tammy Faye,F
+2021,53,Will Smith,King Richard,M
+2021,44,Jessica Chastain,The Eyes of Tammy Faye,F
+2022,54,Brendan Fraser,The Whale,M
+2022,60,Michelle Yeoh,Everything Everywhere All at Once,F
+2022,60,Michelle Yeoh,Everything Everywhere All at Once,F
